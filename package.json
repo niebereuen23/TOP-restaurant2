@@ -1,0 +1,18 @@
+{
+  "name": "top-restaurant2",
+  "version": "1.0.0",
+  "description": "Basic restaurant application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "j34ger23",
+  "license": "ISC",
+  "devDependencies": {
+    "html-loader": "^5.1.0",
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  }
+}
